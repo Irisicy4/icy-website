@@ -13,6 +13,14 @@ hugo_stats.json
 ehthumbs.db
 Thumbs.db
 
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/settings.json
+.idea/
+
 # Editor files
 .vscode/
 .idea/
