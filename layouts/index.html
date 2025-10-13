@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <div class="page-layout">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="profile-card">
+                <div class="avatar">
+                    <img src="{{ "img/avatar.png" | relURL }}" alt="Bingyang (Icy) Wang" />
+                </div>
+                
+                <h1 class="name">Bingyang (Icy) Wang</h1>
+                <p class="title">Quantitative Analyst at RBC Capital Markets</p>
+                <p class="subtitle">MS CS @ Georgia Tech</p>
+                
+                <div class="social-links">
+                    <a href="http://linkedin.com/in/bingyang-icy-wang" target="_blank" class="social-link linkedin">LinkedIn</a>
+                    <a href="https://scholar.google.com/citations?user=UA270iMAAAAJ&hl=en&authuser=1" target="_blank" class="social-link scholar">Google Scholar</a>
+                    <a href="https://github.com/Irisicy4" target="_blank" class="social-link github">GitHub</a>
+                </div>
+                
+                <div class="contact-section">
+                    <h3 class="contact-title">Contact Me</h3>
+                    <a href="mailto:irisicy@outlook.com" class="email-link">irisicy@outlook.com</a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Introduction -->
+            <section class="intro-section">
+                <div class="intro-text">
+                    <p class="greeting">Hi, feel free to call me <strong>Icy</strong> — as Bing冰 in Mandarin means Ice🧊.</p>
+
+                    <p>I'm a <strong>Quantitative Analyst at RBC Capital Markets</strong> and a <strong>Master of Science in Computer Science at Georgia Tech</strong>. Before that, I completed a dual degree (BA + BBA + MS) at <strong>Emory University</strong>, graduating with Highest Academic Honor.</p>
+
+                    <p>I'm motivated by every lightbulb moment of discovering unified understanding across data modalities — text, pixels, tabular, or time-series — especially when signals appear conflicting.</p>
+                    
+                    <p>In research, I study multi-modal reasoning and data-centric AI, focusing on how machine learning systems integrate heterogeneous signals and reasoning patterns. At RBC, following the bank's initiative to generate $1 billion in enterprise value from AI, I build agentic systems that harness alternative signals and unstructured knowledge to drive e-trading decisions and operational efficiency.</p>
+                </div>
+            </section>
+
+            <!-- Research Interests -->
+            <section class="interests-section">
+                <h2>Research Interests</h2>
+                <div class="interests-tags">
+                    <span class="interest-tag">Modality fusion</span>
+                    <span class="interest-tag">Multi-modal reasoning</span>
+                    <span class="interest-tag">Data-centric AI</span>
+                    <span class="interest-tag">Self-evolving agents</span>
+                </div>
+            </section>
+
+            <!-- Recent Updates -->
+            <section class="updates-section">
+                <h2>Recent Updates</h2>
+                <ul class="updates-list">
+                    <li><strong>Presenting 5 papers</strong> in the KnowledgeMR and MMRAgI workshops @ <strong>ICCV 2025</strong>, Honolulu, Hawaii</li>
+                    <li><strong>Published 1 main conference and 2 workshop papers</strong> @ <strong>ICML 2025</strong></li>
+                    <li><strong>Ongoing collaborations</strong> with cross-institutional teams on conflict resolving of VLMs and MLLM inference infrastructure</li>
+                </ul>
+            </section>
+
+            <!-- Affiliations -->
+            <section class="affiliations-section">
+                <h2>Affiliations & Collaborators</h2>
+                <div class="affiliation">
+                    <strong>Core member at</strong> <a href="https://growing-ai-like-a-child.github.io/" target="_blank">Growing AI Like a Child</a>
+                </div>
+                <div class="mentors">
+                    <strong>Mentors / Co-authors:</strong>
+                    <a href="https://scholar.google.com/citations?user=jM1cT4QAAAAJ&hl=en" target="_blank">Tucker Balch</a>,
+                    <a href="https://www.rajivgarg.org/" target="_blank">Rajiv Garg</a>,
+                    <a href="https://williamium3000.github.io/" target="_blank">Yijiang (William) Li</a>
+                </div>
+            </section>
+
+            <!-- Selected Publications -->
+            <section class="publications-section">
+                <h2>Selected Publications</h2>
+                
+                <div class="publication">
+                    <h3 class="pub-title">Core Knowledge Deficits in Multi-Modal Language Models</h3>
+                    <p class="pub-authors">Y. Li, Q. Gao, T. Zhao, <strong>B. Wang</strong>, H. Sun, H. Lyu, R.D. Hawkins, N. Vasconcelos, T. Golan, D. Luo, H. Deng.</p>
+                    <p class="pub-venue"><em>Forty-Second International Conference on Machine Learning (ICML 2025)</em></p>
+                </div>
+
+                <div class="publication">
+                    <h3 class="pub-title">Disassociating Reasoning from Knowledge in Visual Language Models with Anti-Common-Sense Premise</h3>
+                    <p class="pub-authors"><strong>B. Wang</strong>, Y. Li, et al.</p>
+                    <p class="pub-venue"><em>ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning</em></p>
+                </div>
+
+                <div class="publication">
+                    <h3 class="pub-title">Jupyter Notebook as a Natural Multi-Agent Multi-Human Playground: A Generalizable Design for Collaborative Intelligence</h3>
+                    <p class="pub-authors">T. Zhao, <strong>B. Wang</strong>, J. Li, Y. Shen, M. Yang, X. Wu.</p>
+                    <p class="pub-venue"><em>ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence</em></p>
+                </div>
+
+                <div class="publication">
+                    <h3 class="pub-title">Is All the Information in the Price? LLM Embeddings versus the EMH in Stock Clustering</h3>
+                    <p class="pub-authors"><strong>B. Wang</strong>, G. Johnson, M. Hybinette, T. Balch.</p>
+                    <p class="pub-venue"><em>arXiv:2509.01590, 2025</em></p>
+                </div>
+
+                <div class="publication">
+                    <h3 class="pub-title">Incorporating Economic Indicators and Market Sentiment Effect into U.S. Treasury Bond Yield Prediction with Machine Learning</h3>
+                    <p class="pub-authors">Z. Li, <strong>B. Wang</strong>, Y. Chen.</p>
+                    <p class="pub-venue"><em>Journal of Infrastructure, Policy and Development, 8(9), 7671, 2024</em></p>
+                </div>
+
+                <div class="pub-footer">
+                    <p><a href="https://scholar.google.com/citations?user=UA270iMAAAAJ&hl=en&authuser=1" target="_blank">→ Full publication list on Google Scholar</a></p>
+                </div>
+            </section>
+        </main>
+    </div>
+</body>
+</html>

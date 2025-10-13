@@ -1,0 +1,55 @@
+---
+title: "Bingyang (Icy) Wang"
+date: 2025-10-13
+---
+
+# Bingyang (Icy) Wang
+
+[LinkedIn](http://linkedin.com/in/bingyang-icy-wang) · [Google Scholar](https://scholar.google.com/citations?user=UA270iMAAAAJ&hl=en&authuser=1) · [GitHub](https://github.com/Irisicy4)
+
+**Core member at [Growing AI Like a Child](https://growing-ai-like-a-child.github.io/)**
+
+**Mentors / Co-authors:** [Tucker Balch](https://scholar.google.com/citations?user=jM1cT4QAAAAJ&hl=en), [Rajiv Garg](https://www.rajivgarg.org/), [Yijiang (William) Li](https://williamium3000.github.io/)
+
+---
+
+Hi, feel free to call me Icy — as Bing冰 in Mandarin means Ice🧊.
+
+I'm a **Quantitative Analyst at RBC Capital Markets** and a **Master of Science in Computer Science at Georgia Tech**. Before that, I completed a dual degree (BA + BBA + MS) at **Emory University**, graduating with Highest Academic Honor.
+
+I'm motivated by every lightbulb moment of discovering unified understanding across data modalities — text, pixels, tabular, or time-series — especially when signals appear conflicting.
+
+At RBC, following the bank's initiative to generate $1 billion in enterprise value from AI, I build agentic systems that harness alternative signals and unstructured knowledge to drive e-trading decisions and efficiency. In research, I study multi-modal reasoning and data-centric AI, focusing on how machine learning systems integrate heterogeneous signals and reasoning patterns — from financial indicators to human intention modeling in vision-language models (VLMs).
+
+## Interests
+**Modality fusion** · **Multi-modal reasoning** · **Data-centric AI** · **Self-evolving agents**
+
+## Recent Updates
+
+- **Presenting 5 papers** in the KnowledgeMR and MMRAgI workshops @ **ICCV 2025**, Honolulu, Hawaii
+- **Published 1 main conference and 2 workshop papers** @ **ICML 2025**
+- **Ongoing collaborations** with cross-institutional teams on conflict resolving of VLMs and MLLM inference infrastructure
+
+## Selected Publications
+
+**Core Knowledge Deficits in Multi-Modal Language Models**  
+Y. Li, Q. Gao, T. Zhao, **B. Wang**, H. Sun, H. Lyu, R.D. Hawkins, N. Vasconcelos, T. Golan, D. Luo, H. Deng.  
+*Forty-Second International Conference on Machine Learning (ICML 2025).*
+
+**Disassociating Reasoning from Knowledge in Visual Language Models with Anti-Common-Sense Premise**  
+**B. Wang**, Y. Li, et al.  
+*ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning*
+
+**Jupyter Notebook as a Natural Multi-Agent Multi-Human Playground: A Generalizable Design for Collaborative Intelligence**  
+T. Zhao, **B. Wang**, J. Li, Y. Shen, M. Yang, X. Wu.  
+*ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence*
+
+**Is All the Information in the Price? LLM Embeddings versus the EMH in Stock Clustering**  
+**B. Wang**, G. Johnson, M. Hybinette, T. Balch.  
+*arXiv:2509.01590, 2025*
+
+**Incorporating Economic Indicators and Market Sentiment Effect into U.S. Treasury Bond Yield Prediction with Machine Learning**  
+Z. Li, **B. Wang**, Y. Chen.  
+*Journal of Infrastructure, Policy and Development, 8(9), 7671, 2024.*
+
+[Full publication list on Google Scholar →](https://scholar.google.com/citations?user=UA270iMAAAAJ&hl=en&authuser=1)
